@@ -1,7 +1,0 @@
-
-{
-java:S1210"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(›ÁÒÎÿÿÿÿÿ8ÊÇ•§Ø1
-J
-java:S1068"(Remove this unused "suit" private field.(¸ÄÌÔÿÿÿÿÿ8¥Â™ŒØ1
-J
-java:S1068"-Remove this unused "faceValue" private field.(ÿŞ‰â8¦Â™ŒØ1
